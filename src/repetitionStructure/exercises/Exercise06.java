@@ -1,4 +1,4 @@
-package repetitionStructure;
+package repetitionStructure.exercises;
 
 import java.util.Scanner;
 
